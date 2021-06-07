@@ -1,3 +1,3 @@
 # cosmos-db-api
 
-Testing Cosmos DB with .Net 5
+Testing Cosmos DB on an API using .Net 5.
